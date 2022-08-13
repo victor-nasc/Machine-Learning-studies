@@ -1,4 +1,7 @@
 # Linear-Regression
+Hypothesis formulation and optimization 
+
+<br /> 
 
 ### Analytical solution <br />
 Solution based on matrix algebra
