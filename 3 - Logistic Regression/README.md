@@ -1,11 +1,8 @@
-# Linear-Regression
+# Logistic Regression
 
-### Analytical solution <br />
-Solution based on matrix algebra
 
-### Iterative solution <br />
-Gradient Descent Technique <br />
- - Stochastic
- - Batch  <br />  <br />
+- Using sigmoid function
+- Gradient Descent Technique <br />
 
-#### See LinearRegression.ipynb
+
+#### See LogisticRegression.ipynb
