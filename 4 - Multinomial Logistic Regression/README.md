@@ -1,11 +1,8 @@
-# Linear-Regression
+# Multinomial Logistic Regression
 
-### Analytical solution <br />
-Solution based on matrix algebra
+Hypothesis formulation and optimization </br > 
+- One-hot encoded output
+- Using softmax function
+- Gradient Descent Technique
 
-### Iterative solution <br />
-Gradient Descent Technique <br />
- - Stochastic
- - Batch  <br />  <br />
-
-#### See LinearRegression.ipynb
+#### See Softmax.ipynb
